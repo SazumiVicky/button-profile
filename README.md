@@ -1,4 +1,4 @@
-# <a href="https://btn.sazumiviki.com">Demo</a>
+# <a href="https://btn.sazumiviki.com">Preview</a>
 
 ## &#x270d; HTML
 
